@@ -1,5 +1,4 @@
 C:\Users\micha\Documents\github\Playflix\Src\Playflix\Playflix\obj\Release\Playflix.csproj.AssemblyReference.cache
-C:\Users\micha\Documents\github\Playflix\Src\Playflix\Playflix\obj\Release\Playflix.csproj.SuggestedBindingRedirects.cache
 C:\Users\micha\Documents\github\Playflix\Src\Playflix\Playflix\obj\Release\Playflix.Form1.resources
 C:\Users\micha\Documents\github\Playflix\Src\Playflix\Playflix\obj\Release\Playflix.Properties.Resources.resources
 C:\Users\micha\Documents\github\Playflix\Src\Playflix\Playflix\obj\Release\Playflix.csproj.GenerateResource.cache
